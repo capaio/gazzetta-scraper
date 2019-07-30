@@ -1,8 +1,8 @@
 {
   "name": "gazzetta-scraper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "scraper.js",
-  "author": "",
+  "author": "Carlo Cappai",
   "license": "ISC",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
@@ -12,5 +12,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "description": ""
+  "description": "Scrapes www.gazzetta.it website to download players for fantasy football",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/capaio/gazzetta-scraper"
+  }
 }
