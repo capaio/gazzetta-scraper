@@ -1,5 +1,5 @@
 #Gazzetta Scraper
-Faq la ricerca per la lista dei giocatori e per i voti del fantacalcio
+Fa la ricerca per la lista dei giocatori e per i voti del fantacalcio
 
 installare con 
 
